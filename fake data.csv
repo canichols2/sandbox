@@ -1,0 +1,9 @@
+﻿invoice_id,company,member,ammount,approved,drawn,amount_withheld,inv_date
+x88782,Lumber Mill,Greg Smith,"10,850",1,1,0,5/28/2017
+x89100,Lumber Mill,Joe McFail,"9,058",,0,0,5/30/2017
+x89418,Lumber Mill,Jessica Board,"9,400",1,1,0,6/1/2017
+x89736,Lumber Mill,Jeff Chapman,"6,253",1,1,0,6/3/2017
+x90054,Lumber Mill,Billy Joe,"11,200",1,0,0,6/5/2017
+x90372,Lumber Mill,Bobby Sue,"15,480",0,0,1000,6/7/2017
+x90690,Lumber Mill,Jenny Lee,"12,990",,,0,6/9/2017
+x91008,Lumber Mill,Jeffery Spinner,"10,980",1,1,0,6/11/2017

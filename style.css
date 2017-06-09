@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    position: relative;
+}
+my-list{
+    position: relative;
+    width: 50vw;
+}
+my-list>div.group{}
+my-list>div.group>div.groupTitle{
+    background: grey;
+    padding: 6
+}
+my-list>div.group>ul>li{
+    width: auto;
+    padding: 7 20;
+    position: relative;
+    display: block;
+    border-bottom: 1px black solid
+}
+my-list>div.group>ul>li{}
+my-list>div.group>ul>li>.total{
+    right: 0;
+    top: 10;
+    font-size: 2em
+    ;
+/*    width: 100;*/
+    display: block;
+    position: absolute;
+}

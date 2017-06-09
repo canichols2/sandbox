@@ -1,0 +1,10 @@
+﻿[
+{"invoice_id":"x88782","company":"Lumber Mill","member":"Greg Smith","ammount":"10,850","approved":"1","drawn":"1","amount_withheld":"0","inv_date":"5/28/2017"},
+{"invoice_id":"x89100","company":"Lumber Mill","member":"Joe McFail","ammount":"9,058","approved":"","drawn":"0","amount_withheld":"0","inv_date":"5/30/2017"},
+{"invoice_id":"x89418","company":"Lumber Mill","member":"Jessica Board","ammount":"9,400","approved":"1","drawn":"1","amount_withheld":"0","inv_date":"6/1/2017"},
+{"invoice_id":"x89736","company":"Lumber Mill","member":"Jeff Chapman","ammount":"6,253","approved":"1","drawn":"1","amount_withheld":"0","inv_date":"6/3/2017"},
+{"invoice_id":"x90054","company":"Lumber Mill","member":"Billy Joe","ammount":"11,200","approved":"1","drawn":"0","amount_withheld":"0","inv_date":"6/5/2017"},
+{"invoice_id":"x90372","company":"Lumber Mill","member":"Bobby Sue","ammount":"15,480","approved":"0","drawn":"0","amount_withheld":"1000","inv_date":"6/7/2017"},
+{"invoice_id":"x90690","company":"Lumber Mill","member":"Jenny Lee","ammount":"12,990","approved":"","drawn":"","amount_withheld":"0","inv_date":"6/9/2017"},
+{"invoice_id":"x91008","company":"Lumber Mill","member":"Jeffery Spinner","ammount":"10,980","approved":"1","drawn":"1","amount_withheld":"0","inv_date":"6/11/2017"}
+]
